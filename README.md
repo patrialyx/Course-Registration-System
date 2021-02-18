@@ -6,6 +6,6 @@
 For CZ2002
 ---
 Video Demo
-[video link](https://drive.google.com/file/d/1RLZ-QlB0PbCWALzDINe24hUd-3UMLwe8/view?usp=sharing)
+[video link](https://drive.google.com/file/d/1qSOTb1m5SPeWzivetm88TuImUzET2Kir/view?usp=sharing)
 
 
