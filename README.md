@@ -6,4 +6,9 @@
 Video Demo
 [video link](https://drive.google.com/file/d/1qSOTb1m5SPeWzivetm88TuImUzET2Kir/view?usp=sharing)
 
+To compile the files:
+
+Windows command prompt
+```for /r %f in (*.java) do javac -cp .;lib\activation.jar;lib\javax.mail.jar %f```
+
 
