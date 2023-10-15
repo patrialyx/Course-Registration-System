@@ -8,7 +8,7 @@ Video Demo
 
 To compile the files:
 
-Windows command prompt
+Windows command prompt <br>
 ```for /r %f in (*.java) do javac -cp .;lib\activation.jar;lib\javax.mail.jar %f```
 
 
